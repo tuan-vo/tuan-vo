@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **tuanvo29.dev@gmail.com**
 
-- ⚡ Fun fact :- Game, Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact : Game, Food, Sleep, Music And Code 🎵 are the reasons to live.
 
 <br>
 
@@ -53,7 +53,7 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
+<h3>Statistical Data :</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=tuan-vo&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="tuan-vo" 
@@ -69,7 +69,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuan-vo&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="tuan-vo" /></p>
 
 <br>
-<h3>Trophies :-</h3>
+<h3>Trophies :</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
       src="https://github-profile-trophy.vercel.app/?username=tuan-vo&bg_color=0d1117&text_color=ffffff" alt="tuan-vo" /></a> </p>
       
