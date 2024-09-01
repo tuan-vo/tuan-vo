@@ -1,5 +1,4 @@
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Tuan+Vo!+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg) </h1>
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Tuan+Vo!+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)<br>
 <h3 align="center">Student at Duy Tan University🌟.</h3>
 <h4 align="center">https://tuan-vo.github.io/</h4>
 <br>
